@@ -1,5 +1,5 @@
 spring.datasource.driver-class-name=org.postgresql.Driver
-spring.datasource.url=jdbc:postgresql://localhost:5433/identityDB
+spring.datasource.url=jdbc:postgresql://localhost:5433/adminDB
 spring.datasource.username=shilpi
 spring.datasource.password=shilpi
 spring.jpa.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
